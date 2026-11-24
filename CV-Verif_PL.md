@@ -42,7 +42,8 @@ From time-to-time the OpenHW TAC may decided to ammend the list of services.
 Also, there is no requirement for all, or even any, Eclipse project to use any of the above services.
 Each project can select the services that suites its needs.
 
-> [!NOTE] While everything in the list above will be free and open-source,
+> [!NOTE]
+> While everything in the list above will be free and open-source,
 > support for these items and/or activities will be reserved exclusively for Eclipse/OpenHW Members,
 > and will be promoted as tangible benefits of being an Eclipse/OpenHW Foundation member.
 
